@@ -1,5 +1,4 @@
 # DeepLearning
-
 # 🛡️ Malicious Email & URL Detector
 
 A Streamlit-based application combining **deep learning** and **NLP** techniques to protect you from malicious emails and URLs. Quickly identify potential phishing or malware threats in real-time, ensuring safer digital interactions.
