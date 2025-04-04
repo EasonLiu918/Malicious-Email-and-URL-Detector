@@ -34,6 +34,21 @@ A Streamlit-based application combining **deep learning** and **NLP** techniques
 
 ---
 
+## 🔍 How It Works
+Preprocessing
+
+The app normalizes user input (email text or URL) for consistent model inference.
+
+Inference
+
+A fine-tuned transformer model identifies potential threats, returning a classification label (e.g., malicious or benign) and a confidence score.
+
+Results
+
+The Streamlit UI displays the outcome in an easy-to-read format, enabling quick decisions on whether to block, investigate further, or mark as safe.
+
+---
+
 ## Example
 Input:
 
