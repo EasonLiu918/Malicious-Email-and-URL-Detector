@@ -1,5 +1,4 @@
 # DeepLearning
-Malicious Email & URL Detector
 
 # 🛡️ Malicious Email & URL Detector
 
