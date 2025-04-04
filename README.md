@@ -36,8 +36,11 @@ A Streamlit-based application combining **deep learning** and **NLP** techniques
 
 ## Example
 Input:
+
 Hello, your account has been locked. Please verify at http://suspicious-link.com
+
 Output:
+
 Malicious (Confidence: 0.95)
 
 ---
