@@ -33,11 +33,6 @@ A Streamlit-based application combining **deep learning** and **NLP** techniques
 | **Web Interface**                  | [Streamlit](https://streamlit.io/)                                                                |
 
 ---
-
-## ⚙️ Usage
-
-1. **Clone or Download**  
-   - Clone this repository or download the ZIP to your local machine.
-2. **Install Dependencies**  
-   ```bash
-   pip install -r requirements.txt
+👨‍💻 Author
+Eason Liu
+Hugging Face Profile
